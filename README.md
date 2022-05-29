@@ -20,7 +20,7 @@
   
   - Sử dụng phím P để dừng game và đọc hướng dẫn, phím O để tiếp tục game.
   
-  -Nếu chưa có ai chiến thắng, trò chơi sẽ tiếp diễn.
+  - Nếu chưa có ai chiến thắng, trò chơi sẽ tiếp diễn.
   
   <h2> 3.Các chức năng đã cài đặt</h2>
   
@@ -46,6 +46,8 @@
   
   - Sử dụng các hàm xoay, lật ảnh để giảm số lượng file đầu vào
   
+  - Xử lý input từ bàn phím
+  
   <h3>C++</h3>
   
   - Sử dụng các kiến thức về Vector, Array, Class, Thread, con trỏ, nhập xuất file ....
@@ -63,6 +65,9 @@
   - Toàn bộ là tự code.
   
   - Nguồn âm thanh tại Pixabay.com
+  
+  <h3> Video Demo</h3>
+  https://youtu.be/Mw11sto39Bo
   
   <h2> 5.Kết luận</h2>
   
