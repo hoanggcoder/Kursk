@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1651162094 source:c:\users\asus\desktop\code\sdl2 0.1\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+
+1651069447 c:\users\asus\desktop\code\sdl2 0.1\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<thread>
+	<chrono>
+
+1651069542 source:c:\users\asus\desktop\code\sdl2 0.1\main.cpp
+	"Game.h"
+	"StartStats.h"
+
+1651069594 c:\users\asus\desktop\code\sdl2 0.1\startstats.h
+
+1651162093 c:\users\asus\desktop\code\sdl2 0.1\texturemanager.h
+	"Game.h"
+
+1651206889 source:c:\users\asus\desktop\hoanggame - texture\texturemanager.cpp
+	"TextureManager.h"
+
+1651206889 c:\users\asus\desktop\hoanggame - texture\texturemanager.h
+	"Game.h"
+
+1651203244 c:\users\asus\desktop\hoanggame - texture\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<thread>
+	<chrono>
+
+1651206889 source:c:\users\asus\desktop\hoanggame - texture\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	"GameObject.h"
+	"StartStats.h"
+	"map.h"
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+
+1651174554 source:c:\users\asus\desktop\hoanggame - texture\main.cpp
+	"Game.h"
+	"StartStats.h"
+
+1651207372 c:\users\asus\desktop\hoanggame - texture\startstats.h
+
+1651203244 c:\users\asus\desktop\hoanggame - texture\gameobject.h
+	"Game.h"
+
+1651207372 source:c:\users\asus\desktop\hoanggame - texture\gameobject.cpp
+	"GameObject.h"
+	"TextureManager.h"
+
+1651206889 c:\users\asus\desktop\hoanggame - texture\map.h
+	"Game.h"
+
+1651207372 source:c:\users\asus\desktop\hoanggame - texture\map.cpp
+	"map.h"
+	"TextureManager.h"
+
+1653480604 source:c:\users\asus\desktop\hoanggame\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	"Tank1object.h"
+	"Tank2object.h"
+	"map.h"
+	"Input.h"
+	"Board.h"
+	"Sound.h"
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+	<vector>
+
+1652363021 c:\users\asus\desktop\hoanggame\game.h
+	<SDL.h>
+	<SDL_image.h>
+	"StartStats.h"
+	<iostream>
+	<thread>
+	<chrono>
+
+1651673484 c:\users\asus\desktop\hoanggame\texturemanager.h
+	"Game.h"
+
+1651814763 c:\users\asus\desktop\hoanggame\gameobject.h
+	"Game.h"
+	"Shell.h"
+
+1653053526 c:\users\asus\desktop\hoanggame\startstats.h
+
+1653475235 c:\users\asus\desktop\hoanggame\map.h
+	"Game.h"
+	"TextureManager.h"
+	<fstream>
+	<iostream>
+
+1651814763 source:c:\users\asus\desktop\hoanggame\gameobject.cpp
+	"GameObject.h"
+	"TextureManager.h"
+	"Input.h"
+
+1653486236 source:c:\users\asus\desktop\hoanggame\main.cpp
+	"Game.h"
+	"Input.h"
+	"StartStats.h"
+	"Sound.h"
+
+1653474452 source:c:\users\asus\desktop\hoanggame\map.cpp
+	"map.h"
+
+1651675283 source:c:\users\asus\desktop\hoanggame\texturemanager.cpp
+	"TextureManager.h"
+
+1651656827 c:\users\asus\desktop\hoanggame\vector2d.h
+	<iostream>
+
+1651760924 c:\users\asus\desktop\hoanggame\input.h
+	"SDL.h"
+
+1651760908 source:c:\users\asus\desktop\hoanggame\input.cpp
+	"Input.h"
+	"Game.h"
+
+1652347491 c:\users\asus\desktop\hoanggame\shell.h
+	"Game.h"
+	"TextureManager.h"
+
+1653053806 source:c:\users\asus\desktop\hoanggame\shell.cpp
+	"Shell.h"
+	"TextureManager.h"
+	"Input.h"
+
+1651810176 source:c:\users\asus\desktop\hoanggame\condition.cpp
+
+1653478412 source:c:\users\asus\desktop\hoanggame\tank1object.cpp
+	"Tank1object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1653478774 c:\users\asus\desktop\hoanggame\tank1object.h
+	"Game.h"
+	"Shell.h"
+
+1653478412 source:c:\users\asus\desktop\hoanggame\tank2object.cpp
+	"Tank2object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1653478412 c:\users\asus\desktop\hoanggame\tank2object.h
+	"Game.h"
+	"Shell.h"
+
+1651944126 source:c:\users\asus\desktop\hoanggame\button.cpp
+	"Button.h"
+	"TextureManager.h"
+
+1651942559 c:\users\asus\desktop\hoanggame\button.h
+	"Game.h"
+
+1651977548 c:\users\asus\desktop\hoanggame\board.h
+	"Game.h"
+
+1653486107 source:c:\users\asus\desktop\hoanggame\board.cpp
+	"Board.h"
+	"TextureManager.h"
+
+1652103099 c:\users\asus\desktop\hoanggame\sound.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1652101838 source:c:\users\asus\desktop\hoanggame\sound.cpp
+	"Sound.h"
+
+1653486107 source:c:\users\asus\desktop\hoanggame - copy\board.cpp
+	"Board.h"
+	"TextureManager.h"
+
+1651977548 c:\users\asus\desktop\hoanggame - copy\board.h
+	"Game.h"
+
+1652363021 c:\users\asus\desktop\hoanggame - copy\game.h
+	<SDL.h>
+	<SDL_image.h>
+	"StartStats.h"
+	<iostream>
+	<thread>
+	<chrono>
+
+1653053526 c:\users\asus\desktop\hoanggame - copy\startstats.h
+
+1651673484 c:\users\asus\desktop\hoanggame - copy\texturemanager.h
+	"Game.h"
+
+1653480604 source:c:\users\asus\desktop\hoanggame - copy\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	"Tank1object.h"
+	"Tank2object.h"
+	"map.h"
+	"Input.h"
+	"Board.h"
+	"Sound.h"
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+	<vector>
+
+1653478774 c:\users\asus\desktop\hoanggame - copy\tank1object.h
+	"Game.h"
+	"Shell.h"
+
+1652347491 c:\users\asus\desktop\hoanggame - copy\shell.h
+	"Game.h"
+	"TextureManager.h"
+
+1653478412 c:\users\asus\desktop\hoanggame - copy\tank2object.h
+	"Game.h"
+	"Shell.h"
+
+1653475235 c:\users\asus\desktop\hoanggame - copy\map.h
+	"Game.h"
+	"TextureManager.h"
+	<fstream>
+	<iostream>
+
+1651760924 c:\users\asus\desktop\hoanggame - copy\input.h
+	"SDL.h"
+
+1652103099 c:\users\asus\desktop\hoanggame - copy\sound.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1651760908 source:c:\users\asus\desktop\hoanggame - copy\input.cpp
+	"Input.h"
+	"Game.h"
+
+1653486236 source:c:\users\asus\desktop\hoanggame - copy\main.cpp
+	"Game.h"
+	"Input.h"
+	"StartStats.h"
+	"Sound.h"
+
+1653474452 source:c:\users\asus\desktop\hoanggame - copy\map.cpp
+	"map.h"
+
+1653053806 source:c:\users\asus\desktop\hoanggame - copy\shell.cpp
+	"Shell.h"
+	"TextureManager.h"
+	"Input.h"
+
+1652101838 source:c:\users\asus\desktop\hoanggame - copy\sound.cpp
+	"Sound.h"
+
+1653478412 source:c:\users\asus\desktop\hoanggame - copy\tank1object.cpp
+	"Tank1object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1653478412 source:c:\users\asus\desktop\hoanggame - copy\tank2object.cpp
+	"Tank2object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1651675283 source:c:\users\asus\desktop\hoanggame - copy\texturemanager.cpp
+	"TextureManager.h"
+
+1653561441 source:c:\users\asus\desktop\hoanggame\data\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	"Tank1object.h"
+	"Tank2object.h"
+	"map.h"
+	"Input.h"
+	"Board.h"
+	"Sound.h"
+	<cstdlib>
+	<ctime>
+	<thread>
+	<chrono>
+	<vector>
+
+1652363021 c:\users\asus\desktop\hoanggame\data\game.h
+	<SDL.h>
+	<SDL_image.h>
+	"StartStats.h"
+	<iostream>
+	<thread>
+	<chrono>
+
+1653053526 c:\users\asus\desktop\hoanggame\data\startstats.h
+
+1651673484 c:\users\asus\desktop\hoanggame\data\texturemanager.h
+	"Game.h"
+
+1653478774 c:\users\asus\desktop\hoanggame\data\tank1object.h
+	"Game.h"
+	"Shell.h"
+
+1652347491 c:\users\asus\desktop\hoanggame\data\shell.h
+	"Game.h"
+	"TextureManager.h"
+
+1653478412 c:\users\asus\desktop\hoanggame\data\tank2object.h
+	"Game.h"
+	"Shell.h"
+
+1653475235 c:\users\asus\desktop\hoanggame\data\map.h
+	"Game.h"
+	"TextureManager.h"
+	<fstream>
+	<iostream>
+
+1651760924 c:\users\asus\desktop\hoanggame\data\input.h
+	"SDL.h"
+
+1651977548 c:\users\asus\desktop\hoanggame\data\board.h
+	"Game.h"
+
+1652103099 c:\users\asus\desktop\hoanggame\data\sound.h
+	<map>
+	<string>
+	<iostream>
+	<SDL_mixer.h>
+
+1651760908 source:c:\users\asus\desktop\hoanggame\data\input.cpp
+	"Input.h"
+	"Game.h"
+
+1653497106 source:c:\users\asus\desktop\hoanggame\data\main.cpp
+	"Game.h"
+	"Input.h"
+	"StartStats.h"
+
+1653474452 source:c:\users\asus\desktop\hoanggame\data\map.cpp
+	"map.h"
+
+1653053806 source:c:\users\asus\desktop\hoanggame\data\shell.cpp
+	"Shell.h"
+	"TextureManager.h"
+	"Input.h"
+
+1652101838 source:c:\users\asus\desktop\hoanggame\data\sound.cpp
+	"Sound.h"
+
+1653532142 source:c:\users\asus\desktop\hoanggame\data\tank1object.cpp
+	"Tank1object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1653551020 source:c:\users\asus\desktop\hoanggame\data\tank2object.cpp
+	"Tank2object.h"
+	"TextureManager.h"
+	"Input.h"
+	"Sound.h"
+
+1651675283 source:c:\users\asus\desktop\hoanggame\data\texturemanager.cpp
+	"TextureManager.h"
+
+1653550373 source:c:\users\asus\desktop\hoanggame\data\board.cpp
+	"Board.h"
+	"TextureManager.h"
+
