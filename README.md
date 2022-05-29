@@ -6,31 +6,40 @@
   
   Bước 2: Giải nén file zip.
   
-  Bước 3: Nhấp vào file short cut có tên Kursk ở bên ngoài folder Data.(Nếu không được có thể vào file HoangGame.exe trong folder Data)
+  Bước 3: Nhấp vào file short cut có tên Kursk ![This is an image](Data/Assets/image/tankp1.png) ở bên ngoài folder Data.(Nếu không được có thể vào file HoangGame.exe trong folder Data)
   
   Bước 4: Bỏ qua các cảnh báo của Microsoft Defender để khởi chạy chương trình từ bên ngoài và chơi (Yên tâm folder không có virus)
   
  <h2> 2. Mô tả chung về trò chơi</h2>
  
-  - Kursk là một game 2D 2 người chơi. Mỗi người chơi sẽ sử dụng các loại đạn của mình cố gắng bắn và tiêu diệt xe đối phương. Ai bị phá hủy xe tăng 3 lần trước là người thua cuộc. Tùy loại đạn mà sát thương nhận được là khác nhau
+  - Kursk là một game 2D 2 người chơi. Mỗi người chơi sẽ sử dụng các loại đạn của mình cố gắng bắn và tiêu diệt xe đối phương. Ai bị phá hủy xe tăng ![This is an image](Data/Assets/image/tankp1.png) ![This is an image](Data/Assets/image/tankp2.png) 3 lần trước là người thua cuộc. Tùy loại đạn mà sát thương nhận được là khác nhau
  
   - Game chỉ sử dụng đầu vào là bàn phím.
   
-  - Có 4 bản đồ với địa hình, tính chất khác nhau để lựa chọn khi bắt đầu vào game.
+  - Có 4 bản đồ với địa hình, tính chất khác nhau để lựa chọn khi bắt đầu vào game.![This is an image](Data/Assets/image/choosemap.png)
   
   - Sử dụng phím P để dừng game và đọc hướng dẫn, phím O để tiếp tục game.
+  ![This is an image](Data/Assets/image/paused.png)
   
   - Nếu chưa có ai chiến thắng, trò chơi sẽ tiếp diễn.
   
   <h2> 3.Các chức năng đã cài đặt</h2>
   
-  - Thay đổi 2 loại đạn khác nhau, với tốc độ, hình ảnh, sức mạnh , âm thanh khác nhau.
+  - Thay đổi 3 loại đạn khác nhau, với tốc độ, hình ảnh, sức mạnh , âm thanh khác nhau.
+  ![This is an image](Data/Assets/image/shell.png) ![This is an image](Data/Assets/image/shell2.png) ![This is an image](Data/Assets/image/shell3.png)
   
   - Có âm thanh và âm nhạc đầy đủ trong game
   
   - Có các chướng ngại vật khác nhau trong bản đồ, có thể dễ dàng thay đổi bản đồ để có 1 trải nghiệm mới.
-  
-  - Có cái bonus trong round để tăng tốc độ, tăng sức mạnh cho tăng.
+  ![This is an image](Data/Assets/image/trench.png)
+  ![This is an image](Data/Assets/image/water.png)
+  ![This is an image](Data/Assets/image/hole.png)
+  ![This is an image](Data/Assets/image/wall.png)
+   ![This is an image](Data/Assets/image/grass.png)
+   ![This is an image](Data/Assets/image/fence.png)
+  - Có các bonus trong round để tăng tốc độ, tăng sức mạnh cho tăng.
+  ![This is an image](Data/Assets/image/powerup1.png)
+  ![This is an image](Data/Assets/image/powerup2.png)
   
   - Có thể dừng trò chơi, xem hướng dẫn.
   
@@ -73,7 +82,7 @@
   
   - Qua thời gian làm chương trình em đã có thêm nhiều bài học, nhiều kinh nghiệm về lập trình, về clean code, về xử lí project để sản phẩm ngày càng hoàn thiện hơn, kỹ năng được cải thiện so với đầu khóa học
   
-  - Tuy vậy, code game vẫn có nhiều phần bị lặp/dài, cần được refactor trau chuốt hơn nữa. Kiến thức vẫn còn hổng, hạn chế dẫn đến 1 số bug rất mất thời gian sửa.
+  - Tuy vậy, code game vẫn có nhiều phần bị lặp/dài, cần được refactor trau chuốt hơn nữa. Kiến thức vẫn còn hổng, hạn chế dẫn đến 1 số bug rất mất thời gian sửa. Và 1 điều em vẫn khá tiếc là hitbox của game đôi lúc vẫn bị thất thường (em sẽ cố gắng sao cho viên đạn đi càng chính xác vào chiếc xe tăng càng tốt)
   
   - Em khá tâm đắc việc thay đổi các loại đạn sẽ giúp trò chơi có thêm chiều sâu, cũng như việc thay đổi map tăng thêm tính đa dạng.
   
