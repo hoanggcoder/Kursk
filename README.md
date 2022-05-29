@@ -4,9 +4,11 @@
   
   Bước 1: Fork toàn bộ repository này về máy/ Download folder về máy.
   
-  Bước 2: Nhấp vào file short cut có tên Kursk ở bên ngoài folder Data.
+  Bước 2: Giải nén file zip.
   
-  Bước 3: Bỏ qua các cảnh báo của Microsoft Defender để khởi chạy chương trình từ bên ngoài và chơi (Yên tâm folder không có virus)
+  Bước 3: Nhấp vào file short cut có tên Kursk ở bên ngoài folder Data.(Nếu không được có thể vào file HoangGame.exe trong folder Data)
+  
+  Bước 4: Bỏ qua các cảnh báo của Microsoft Defender để khởi chạy chương trình từ bên ngoài và chơi (Yên tâm folder không có virus)
   
  <h2> 2. Mô tả chung về trò chơi</h2>
  
